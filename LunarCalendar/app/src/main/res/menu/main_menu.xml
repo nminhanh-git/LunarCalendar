@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/languageItem"
+        android:title="@string/language_button" />
+    <item
+        android:id="@+id/infoItem"
+        android:title="@string/informtion_button" />
+    <item
+        android:id="@+id/exitItem"
+        android:title="@string/Exit_button" />
+</menu>

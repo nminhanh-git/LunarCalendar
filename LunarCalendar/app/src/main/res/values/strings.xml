@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lunar Year</string>
+    <string name="exit_app_message">Are you sure want to exit the app?</string>
+    <string name="exit_dialog_button">EXIT</string>
+    <string name="cancel_dialog_button">CANCEL</string>
+    <string name="ok_dialog_button">OK</string>
+    <string name="year_title">Year</string>
+    <string name="show_me_button">show me!</string>
+    <string name="language_button">Language</string>
+    <string name="choose_language_title">Choose language</string>
+    <string name="informtion_button">Information</string>
+    <string name="application_version_title">Application version</string>
+    <string name="application_version_number">1.0.0</string>
+    <string name="about_us_title">About us</string>
+    <string name="about_us_subheading">Mighty Lions</string>
+    <string name="contact">Contact: 0947675699</string>
+    <string name="email">Email: nminhanh1997@gmail.com </string>
+    <string name="facebook">Facebook: fb.me/nmanh192397</string>
+    <string name="Exit_button">Exit</string>
+    <string name="clear_all_button">Clear all</string>
+    <string name="toast_cleared">Cleared</string>
+    <string name="select_all_button">Select all</string>
+    <string name="toast_empty_year">Empty year!</string>
+</resources>
